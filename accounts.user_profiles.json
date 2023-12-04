@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "6560c1b3698d480ed44b5f25"
+  },
+  "Username": "Trikaan",
+  "Email": "trikaanthedevourer@gmail.com",
+  "Age": "17"
+},
+{
+  "_id": {
+    "$oid": "6560d2f505b52676b886c1c7"
+  },
+  "Username": "Chombus",
+  "Email": "chambabotako@gmail.com",
+  "Age": "45"
+}]
+  
